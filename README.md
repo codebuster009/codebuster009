@@ -37,8 +37,6 @@
 ### 🚀 Party2Users (P2U)
 > Real-time event discovery and organization app, built for users to find, host, and experience amazing parties around them.
 
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="500">
-
 - **Stack**: ReactJS, TailwindCSS, Redux, Redis, Node.js, Websockets, Server Events
 - Live notifications 🔥 | Real-time chats 🗨️
 - High-speed backend caching with **Redis** ⚡
@@ -48,8 +46,6 @@
 
 ### 🚀 Marketing AI (MAI)
 > An AI-based marketing automation platform that personalizes campaigns and predicts trends.
-
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500">
 
 - **Stack**: ReactJS, TailwindCSS, React Query, Node.js
 - Smart analytics dashboards 📊
@@ -61,8 +57,6 @@
 ### 🚀 Vantage Cybertech
 > Modern corporate website for a cybersecurity company, built with ultra-smooth animations and responsive design.
 
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500">
-
 - **Stack**: ReactJS, TailwindCSS, Framer Motion
 - Micro-interactions | Smooth Scroll 🚀
 - SEO optimized for better visibility 🔍
@@ -72,8 +66,6 @@
 
 ### 🚀 Authnull
 > Secure Authentication and Authorization system with beautiful UI.
-
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="500">
 
 - **Stack**: ReactJS, Redux, Ant Design
 - Social logins | Secure JWT Tokens 🔐
@@ -85,8 +77,6 @@
 ### 🚀 Lifetime Memories
 > A memory-saving platform where users can upload, save, and relive their life events.
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
-
 - **Stack**: ReactJS, CSS, HTML5, React Query
 - Smooth gallery animations 🖼️
 - Upload / View / Share memories 📸
@@ -96,8 +86,6 @@
 
 ### 🚀 Apple Cart
 > E-commerce cart experience inspired by Apple's clean, minimal aesthetic.
-
-<img src="https://media.giphy.com/media/3o7TKxOhXfJdCw8lIc/giphy.gif" width="500">
 
 - **Stack**: ReactJS, JavaScript, HTML5, CSS3
 - Dynamic cart operations 🛒
