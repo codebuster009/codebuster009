@@ -28,7 +28,6 @@
 - 🚀 I bring ideas to life — from scratch to production
 - 🌟 Exploring Cloud, WebSockets, Microservices, and AI tools
 - 🎯 Life Motto: "Learn, Build, Share, Repeat."
-- 📚 Currently learning Kubernetes and System Design
 - ✨ Fun Fact: I'm addicted to making clean UI/UX interfaces that users love
 
 <h2 align="left">🛠️ Projects I've built:</h2>
@@ -43,7 +42,7 @@
 - **Stack**: ReactJS, TailwindCSS, Redux, Redis, Node.js, Websockets, Server Events
 - Live notifications 🔥 | Real-time chats 🗨️
 - High-speed backend caching with **Redis** ⚡
-- **Live:** [Link to P2U](#)
+- **Live:** [Link to P2U](https://parties2you.com/)
 
 ---
 
@@ -55,7 +54,7 @@
 - **Stack**: ReactJS, TailwindCSS, React Query, Node.js
 - Smart analytics dashboards 📊
 - Integration with OpenAI APIs 🤖
-- **Live:** [Link to MAI](#)
+- **Live:** [Link to MAI](https://www.nextviralai.com/)
 
 ---
 
@@ -67,7 +66,7 @@
 - **Stack**: ReactJS, TailwindCSS, Framer Motion
 - Micro-interactions | Smooth Scroll 🚀
 - SEO optimized for better visibility 🔍
-- **Live:** [Link to Vantage Cybertech](#)
+- **Live:** [Link to Vantage Cybertech](https://www.vantagecybertech.com/)
 
 ---
 
@@ -79,7 +78,7 @@
 - **Stack**: ReactJS, Redux, Ant Design
 - Social logins | Secure JWT Tokens 🔐
 - Modern, enterprise-grade design 🏢
-- **Live:** [Link to Authnull](#)
+- **Live:** [Link to Authnull](https://authnull.com/)
 
 ---
 
@@ -91,7 +90,7 @@
 - **Stack**: ReactJS, CSS, HTML5, React Query
 - Smooth gallery animations 🖼️
 - Upload / View / Share memories 📸
-- **Live:** [Link to Lifetime Memories](#)
+- **Live:** [Link to Lifetime Memories](https://elegant-cuchufli-37a844.netlify.app/)
 
 ---
 
@@ -103,7 +102,7 @@
 - **Stack**: ReactJS, JavaScript, HTML5, CSS3
 - Dynamic cart operations 🛒
 - Animations and smooth UX transitions ✨
-- **Live:** [Link to Apple Cart](#)
+- **Live:** [Link to Apple Cart](https://elegant-cuchufli-37a844.netlify.app/)
 
 ---
 
