@@ -99,5 +99,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Kartavaya%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartavaya-sharma-a17035230/)](https://www.linkedin.com/in/kartavaya-sharma-a17035230/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://visionary-mooncake-2cafda.netlify.app/)](https://visionary-mooncake-2cafda.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-kartavyasharmajs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kartavyasharmajs@gmail.com)](mailto:kartavyasharmajs@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-codebuster009-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/codebuster009)](https://github.com/codebuster009)
+
 
