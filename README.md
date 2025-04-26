@@ -1,26 +1,21 @@
-About Me 👩🏻‍💻
-Hi there! I’m a passionate Frontend React Developer with a strong foundation in JavaScript, React, and UI/UX Design. I specialize in building modern, responsive web applications and creating seamless user experiences. Over the years, I've had the opportunity to work on various projects, ranging from dynamic web apps to real-time systems.
+<h2> Hi, I'm Kartavya Sharma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p><em>Frontend Developer passionate about building modern, responsive web applications 🚀</em></p>
 
-Some of my notable work includes creating a P2U (Party to Users) App, building interactive chat systems with WebSockets.
-My Skills 🚀
-Frontend Development: React, JavaScript, HTML/CSS
-State Management: Redux, Redux-Saga
-Design: Tailwind CSS, UI/UX Design
-Backend Integration: API Development, WebSockets, SSE, Redis
-Tools: Git/Github, Responsive Design
-Recent Projects 💻
-Here are some of the projects I’ve worked on:
 
-P2U (Party to Users) App: Designed and implemented backend architecture, role-based authentication, and real-time notifications. Built with a focus on chat functionality using WebSockets and Redis for caching and notifications.
 
-MAI (Marketing AI): Built responsive layouts from scratch using Tailwind CSS. Managed complex state with Redux for better app scalability.
-
-Authnull: Developed a clean UI/UX using Ant Design and implemented pagination and filtering to enhance data presentation and usability.
-
-My Goals 🎯
-collaborate with like-minded developers, and contribute to impactful projects. I’m excited about building intuitive and user-friendly web applications that solve real-world problems!
-
-Let's Connect! 📞
-If you're interested in collaborating on a project or simply want to chat, feel free to reach out kartavyasharmajs@gmail.com! I'm always open to new opportunities and connections.
-
-Thanks for stopping by my profile! 😊
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+javascript
+Copy
+Edit
+const kartavya = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "React", "HTML", "CSS"],
+  tools: ["Redux", "Redux-Saga", "TailwindCSS", "Ant Design", "WebSockets", "Redis"],
+  backendIntegration: ["REST APIs", "SSE", "real-time systems"],
+  projects: {
+    P2U: "Real-time chat app with WebSockets and Redis caching",
+    MAI: "Responsive Marketing AI dashboard using TailwindCSS and Redux",
+    Authnull: "Clean UI/UX with Ant Design plus data pagination & filtering"
+  },
+  challenge: "Building intuitive web apps and sharpening my React ecosystem skills!"
+}
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love collaborating with passionate developers</b> — if you'd like to connect or work together, feel free to say hi!</em> 😊
