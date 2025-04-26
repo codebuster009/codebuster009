@@ -1,55 +1,74 @@
-नमस्ते (Namaste)🙏🏻, I'm Kartavya Sharma!
-Frontend React Developer 🚀 | Passionate about building seamless user experiences
+<h2 align="left">
+  <abc>
+    <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br><br>
+    I'm Kartavaya Sharma, Full Stack Developer 👨🏻‍💻<br><br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  </abc>
+</h2>
 
-Follow me: Twitter | LinkedIn | GitHub Followers | Website
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+</p>
 
-📫 Want to chat or collaborate?
-Ping me at kartavyasharmajs@gmail.com — Always happy to connect!
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-👇 Run this in your console to connect with me:
+- :computer: I'm a Fullstack Developer passionate about building scalable, real-world applications
+- :zap: Skilled in React, Node.js, Express, MongoDB, Docker, and AWS
+- 🚀 I bring ideas to life — from scratch to production
+- 🌟 Exploring Cloud, WebSockets, Microservices, and AI tools
+- 🎯 Life Motto: "Learn, Build, Share, Repeat."
+- 📚 Currently learning Kubernetes and System Design
+- ✨ Fun Fact: I'm addicted to making clean UI/UX interfaces that users love
 
-nginx
-Copy
-Edit
-npx kartavyasharma
-A little more about me...
-javascript
-Copy
-Edit
-const kartavya = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "React"],
-  askMeAbout: ["frontend dev", "real-time systems", "UI/UX design"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Redux", "Redux-Saga"],
-      css: ["Tailwind CSS", "HTML", "CSS"],
-      uiLibraries: ["Ant Design"],
-    },
-    backEnd: {
-      integration: ["APIs", "WebSockets", "SSE", "Redis"],
-    },
-    devOps: ["Git", "GitHub", "Responsive Design"],
-    misc: ["Real-time Chat Systems", "Role-Based Authentication", "Caching"],
-  },
-  recentProjects: [
-    "P2U (Party to Users) App - Real-time notifications, chat system with WebSockets & Redis",
-    "MAI (Marketing AI) - Scalable responsive layouts with Tailwind & Redux",
-    "Authnull - Clean UI/UX with Ant Design, Pagination, Filtering",
-  ],
-  goals: [
-    "Collaborate with like-minded developers",
-    "Contribute to impactful projects",
-    "Build intuitive and user-friendly web apps",
-  ],
-  funFact: "A strong coffee + a good playlist = Super Saiyan coding mode ☕🎧",
-};
-📈 GitHub Stats
-📦 Used GitHub Storage: —
-🏆 Contributions this year: —
-📜 Public Repositories: —
-🔑 Private Repositories: —
+<h2 align="left">🛠️ Projects I've built:</h2>
 
-(You can link your own GitHub Action stats here later if you want!)
+### 🚀 Marketing AI (MAI)
+> An AI-driven marketing automation tool that personalizes user journeys, predicts trends, and auto-optimizes campaigns.
 
-"Thanks for stopping by my profile! Always building, always learning." 🚀
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500">
+
+- Built with **MERN Stack + OpenAI API**
+- Real-time analytics dashboard 📈
+- Integrated Stripe for seamless payments 💳
+
+---
+
+### 🎉 P2U (Party To Users)
+> A real-time event organizing platform that helps users discover, plan, and attend exclusive parties near them.
+
+<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="500">
+
+- Developed using **React, Node.js, MongoDB, Socket.io**
+- Instant notifications + live updates 📲
+- Customized Google Maps integration 🗺️
+
+---
+
+### 🌐 Visionary Portfolio
+> A clean, minimal, and lightning-fast portfolio that reflects my skills, experience, and vision.
+
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="500">
+
+- Built with **React, TailwindCSS, and Framer Motion**
+- Deployed on **Netlify** 🚀
+- **[Check it out here!](https://visionary-mooncake-2cafda.netlify.app/)**
+
+---
+
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Kartavaya%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartavaya-sharma-a17035230/)](https://www.linkedin.com/in/kartavaya-sharma-a17035230/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://visionary-mooncake-2cafda.netlify.app/)](https://visionary-mooncake-2cafda.netlify.app/)
+[![Gmail Badge](https://img.shields.io/badge/-kartavyasharmajs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kartavyasharmajs@gmail.com)](mailto:kartavyasharmajs@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-kartavyasharma-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/kartavyasharma)](https://github.com/kartavyasharma)
