@@ -33,36 +33,77 @@
 
 <h2 align="left">🛠️ Projects I've built:</h2>
 
-### 🚀 Marketing AI (MAI)
-> An AI-driven marketing automation tool that personalizes user journeys, predicts trends, and auto-optimizes campaigns.
-
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500">
-
-- Built with **MERN Stack + OpenAI API**
-- Real-time analytics dashboard 📈
-- Integrated Stripe for seamless payments 💳
-
 ---
 
-### 🎉 P2U (Party To Users)
-> A real-time event organizing platform that helps users discover, plan, and attend exclusive parties near them.
+### 🚀 Party2Users (P2U)
+> Real-time event discovery and organization app, built for users to find, host, and experience amazing parties around them.
 
 <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="500">
 
-- Developed using **React, Node.js, MongoDB, Socket.io**
-- Instant notifications + live updates 📲
-- Customized Google Maps integration 🗺️
+- **Stack**: ReactJS, TailwindCSS, Redux, Redis, Node.js, Websockets, Server Events
+- Live notifications 🔥 | Real-time chats 🗨️
+- High-speed backend caching with **Redis** ⚡
+- **Live:** [Link to P2U](#)
 
 ---
 
-### 🌐 Visionary Portfolio
-> A clean, minimal, and lightning-fast portfolio that reflects my skills, experience, and vision.
+### 🚀 Marketing AI (MAI)
+> An AI-based marketing automation platform that personalizes campaigns and predicts trends.
 
-<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500">
 
-- Built with **React, TailwindCSS, and Framer Motion**
-- Deployed on **Netlify** 🚀
-- **[Check it out here!](https://visionary-mooncake-2cafda.netlify.app/)**
+- **Stack**: ReactJS, TailwindCSS, React Query, Node.js
+- Smart analytics dashboards 📊
+- Integration with OpenAI APIs 🤖
+- **Live:** [Link to MAI](#)
+
+---
+
+### 🚀 Vantage Cybertech
+> Modern corporate website for a cybersecurity company, built with ultra-smooth animations and responsive design.
+
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500">
+
+- **Stack**: ReactJS, TailwindCSS, Framer Motion
+- Micro-interactions | Smooth Scroll 🚀
+- SEO optimized for better visibility 🔍
+- **Live:** [Link to Vantage Cybertech](#)
+
+---
+
+### 🚀 Authnull
+> Secure Authentication and Authorization system with beautiful UI.
+
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="500">
+
+- **Stack**: ReactJS, Redux, Ant Design
+- Social logins | Secure JWT Tokens 🔐
+- Modern, enterprise-grade design 🏢
+- **Live:** [Link to Authnull](#)
+
+---
+
+### 🚀 Lifetime Memories
+> A memory-saving platform where users can upload, save, and relive their life events.
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
+
+- **Stack**: ReactJS, CSS, HTML5, React Query
+- Smooth gallery animations 🖼️
+- Upload / View / Share memories 📸
+- **Live:** [Link to Lifetime Memories](#)
+
+---
+
+### 🚀 Apple Cart
+> E-commerce cart experience inspired by Apple's clean, minimal aesthetic.
+
+<img src="https://media.giphy.com/media/3o7TKxOhXfJdCw8lIc/giphy.gif" width="500">
+
+- **Stack**: ReactJS, JavaScript, HTML5, CSS3
+- Dynamic cart operations 🛒
+- Animations and smooth UX transitions ✨
+- **Live:** [Link to Apple Cart](#)
 
 ---
 
