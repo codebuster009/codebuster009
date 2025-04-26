@@ -1,21 +1,55 @@
-<h2> Hi, I'm Kartavya Sharma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p><em>Frontend Developer passionate about building modern, responsive web applications 🚀</em></p>
+नमस्ते (Namaste)🙏🏻, I'm Kartavya Sharma!
+Frontend React Developer 🚀 | Passionate about building seamless user experiences
 
+Follow me: Twitter | LinkedIn | GitHub Followers | Website
 
+📫 Want to chat or collaborate?
+Ping me at kartavyasharmajs@gmail.com — Always happy to connect!
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+👇 Run this in your console to connect with me:
+
+nginx
+Copy
+Edit
+npx kartavyasharma
+A little more about me...
 javascript
 Copy
 Edit
 const kartavya = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "React", "HTML", "CSS"],
-  tools: ["Redux", "Redux-Saga", "TailwindCSS", "Ant Design", "WebSockets", "Redis"],
-  backendIntegration: ["REST APIs", "SSE", "real-time systems"],
-  projects: {
-    P2U: "Real-time chat app with WebSockets and Redis caching",
-    MAI: "Responsive Marketing AI dashboard using TailwindCSS and Redux",
-    Authnull: "Clean UI/UX with Ant Design plus data pagination & filtering"
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "React"],
+  askMeAbout: ["frontend dev", "real-time systems", "UI/UX design"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Redux", "Redux-Saga"],
+      css: ["Tailwind CSS", "HTML", "CSS"],
+      uiLibraries: ["Ant Design"],
+    },
+    backEnd: {
+      integration: ["APIs", "WebSockets", "SSE", "Redis"],
+    },
+    devOps: ["Git", "GitHub", "Responsive Design"],
+    misc: ["Real-time Chat Systems", "Role-Based Authentication", "Caching"],
   },
-  challenge: "Building intuitive web apps and sharpening my React ecosystem skills!"
-}
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love collaborating with passionate developers</b> — if you'd like to connect or work together, feel free to say hi!</em> 😊
+  recentProjects: [
+    "P2U (Party to Users) App - Real-time notifications, chat system with WebSockets & Redis",
+    "MAI (Marketing AI) - Scalable responsive layouts with Tailwind & Redux",
+    "Authnull - Clean UI/UX with Ant Design, Pagination, Filtering",
+  ],
+  goals: [
+    "Collaborate with like-minded developers",
+    "Contribute to impactful projects",
+    "Build intuitive and user-friendly web apps",
+  ],
+  funFact: "A strong coffee + a good playlist = Super Saiyan coding mode ☕🎧",
+};
+📈 GitHub Stats
+📦 Used GitHub Storage: —
+🏆 Contributions this year: —
+📜 Public Repositories: —
+🔑 Private Repositories: —
+
+(You can link your own GitHub Action stats here later if you want!)
+
+"Thanks for stopping by my profile! Always building, always learning." 🚀
