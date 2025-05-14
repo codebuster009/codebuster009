@@ -58,7 +58,7 @@
 > Modern corporate website for a cybersecurity company, built with ultra-smooth animations and responsive design.
 
 - **Stack**: ReactJS, TailwindCSS, Framer Motion
-- Micro-interactions | Smooth Scroll 🚀
+- Micro-interactions | Smooth Scrolling 🚀
 - SEO optimized for better visibility 🔍
 - **Live:** [Link to Vantage Cybertech](https://www.vantagecybertech.com/)
 
