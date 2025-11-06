@@ -1,103 +1,238 @@
-<h2 align="left">
-  <abc>
-    <br>Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br><br>
-    I'm Kartavaya Sharma, Full Stack Developer. 👨🏻‍💻<br><br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  </abc>
-</h2>
+<div align="center">
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use</h2>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</p>
+# 👋 Hi there, I'm Kartavaya Sharma
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+### 🚀 Full Stack Developer | UI/UX Enthusiast | Problem Solver
 
-- :computer: I'm a Fullstack Developer passionate about building scalable, real-world applications
-- :zap: Skilled in React, Node.js, Express, MongoDB, Docker, and AWS
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7E74F1?style=for-the-badge&logo=vercel&logoColor=white)](https://kartavyasharma.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartavaya-sharma-a17035230/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartavyasharmajs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebuster009)     
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const kartavaya = {
+  role: "Full Stack Developer",
+  location: "India",
+  passion: "Building scalable, real-world applications",
+  currentFocus: ["React", "Next.js", "TypeScript", "AI Integration"],
+  motto: "Learn, Build, Share, Repeat.",
+  funFact: "Addicted to making clean UI/UX interfaces that users love ✨"
+}
+```
+
+- 💻 **Full Stack Developer** passionate about building scalable, real-world applications
+- ⚡ Skilled in **React**, **Next.js**, **Node.js**, **TypeScript**, **MongoDB**, **Docker**, and **AWS**
 - 🚀 I bring ideas to life — from scratch to production
-- 🌟 Exploring Cloud, WebSockets, Microservices, and AI tools
-- 🎯 Life Motto: "Learn, Build, Share, Repeat."
-- ✨ Fun Fact: I'm addicted to making clean UI/UX interfaces that users love
-
-<h2 align="left">🛠️ Projects I've built:</h2>
+- 🌟 Exploring **Cloud**, **WebSockets**, **Microservices**, and **AI tools**
+- 🎨 Love creating beautiful, responsive, and performant web experiences
+- 🔥 Always learning and implementing the latest technologies
 
 ---
 
-### 🚀 Party2Users (P2U)
-> Real-time event discovery and organization app, built for users to find, host, and experience amazing parties around them.
+## 🛠️ Tech Stack
 
-- **Stack**: ReactJS, TailwindCSS, Redux, Redis, Node.js, Websockets, Server Events
-- Live notifications 🔥 | Real-time chats 🗨️
-- High-speed backend caching with **Redis** ⚡
-- **Live:** [Link to P2U](https://parties2you.com/)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🚀 Marketing AI (MAI)
-> An AI-based marketing automation platform that personalizes campaigns and predicts trends.
-
-- **Stack**: ReactJS, TailwindCSS, React Query, Node.js
-- Smart analytics dashboards 📊
-- Integration with OpenAI APIs 🤖
-- **Live:** [Link to MAI](https://www.nextviralai.com/)
-
----
-
-### 🚀 Vantage Cybertech
-> Modern corporate website for a cybersecurity company, built with ultra-smooth animations and responsive design.
-
-- **Stack**: ReactJS, TailwindCSS, Framer Motion
-- Micro-interactions | Smooth Scrolling 🚀
-- SEO optimized for better visibility 🔍
-- **Live:** [Link to Vantage Cybertech](https://www.vantagecybertech.com/)
-
----
-
-### 🚀 Authnull
-> Secure Authentication and Authorization system with beautiful UI.
-
-- **Stack**: ReactJS, Redux, Ant Design
-- Social logins | Secure JWT Tokens 🔐
-- Modern, enterprise-grade design 🏢
-- **Live:** [Link to Authnull](https://authnull.com/)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ---
 
-### 🚀 Lifetime Memories
-> A memory-saving platform where users can upload, save, and relive their life events.
+## 📊 GitHub Stats
 
-- **Stack**: ReactJS, CSS, HTML5, React Query
-- Smooth gallery animations 🖼️
-- Upload / View / Share memories 📸
-- **Live:** [Link to Lifetime Memories](https://elegant-cuchufli-37a844.netlify.app/)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebuster009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E74F1&icon_color=7E74F1)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebuster009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E74F1)
 
-### 🚀 Apple Cart
-> E-commerce cart experience inspired by Apple's clean, minimal aesthetic.
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=codebuster009&theme=tokyonight&hide_border=true&background=0D1117&ring=7E74F1&fire=7E74F1&currStreakLabel=7E74F1)
 
-- **Stack**: ReactJS, JavaScript, HTML5, CSS3
-- Dynamic cart operations 🛒
-- Animations and smooth UX transitions ✨
-- **Live:** [Link to Apple Cart](https://elegant-cuchufli-37a844.netlify.app/)
+</div>
 
 ---
 
-<h2 align="left">:heart: Let's get connected:</h2>
+## 🚀 Featured Projects
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kartavaya%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartavaya-sharma-a17035230/)](https://www.linkedin.com/in/kartavaya-sharma-a17035230/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://visionary-mooncake-2cafda.netlify.app/)](https://visionary-mooncake-2cafda.netlify.app/)
-[![Gmail Badge](https://img.shields.io/badge/-kartavyasharmajs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kartavyasharmajs@gmail.com)](mailto:kartavyasharmajs@gmail.com)
+### 🎉 Party2Users (P2U)
+> Real-time event discovery and organization platform with live updates and WebSocket integration
 
+**Tech Stack:** ReactJS, JavaScript, Framer Motion, Tailwind CSS, Redux, Redis, Server Events, WebSockets, Node.js
 
+- ⚡ Real-time notifications and live chats
+- 🚀 High-speed backend caching with Redis
+- 🔥 WebSocket integration for instant updates
+
+[🌐 View on Portfolio](https://kartavyasharma.netlify.app/) | [📁 Repository](https://github.com/codebuster009)
+
+---
+
+### 🤖 Marketing AI (MAI)
+> AI-powered marketing automation platform with advanced analytics and trend prediction
+
+**Tech Stack:** ReactJS, JavaScript, React Query, Tailwind CSS, Node.js
+
+- 📊 Smart analytics dashboards
+- 🤖 OpenAI API integration
+- 🎯 Personalized campaign automation
+
+[🌐 View on Portfolio](https://kartavyasharma.netlify.app/) | [📁 Repository](https://github.com/codebuster009)
+
+---
+
+### 🚚 Vantage Cargo
+> Modern logistics and cargo management website with ultra-smooth animations
+
+**Tech Stack:** ReactJS, Framer Motion, Tailwind CSS
+
+- ✨ Micro-interactions and smooth scrolling
+- 📱 Fully responsive design
+- 🔍 SEO optimized
+
+[🌐 View on Portfolio](https://kartavyasharma.netlify.app/) | [📁 Repository](https://github.com/codebuster009)
+
+---
+
+### 🔐 Authnull
+> Enterprise-grade authentication and security platform with beautiful UI
+
+**Tech Stack:** ReactJS, Redux, Ant Design Library
+
+- 🔒 Secure JWT token management
+- 🌐 Social login integration
+- 🏢 Enterprise-ready design
+
+[🌐 View on Portfolio](https://kartavyasharma.netlify.app/) | [📁 Repository](https://github.com/codebuster009)
+
+---
+
+### 📱 Inlyne
+> Modern web application with elegant design and seamless user experience
+
+**Tech Stack:** React Native, ReactJS, TypeScript, Tailwind CSS, Framer Motion, shadcn/ui
+
+- 🎨 Elegant, modern UI design
+- ⚡ Smooth animations and transitions
+- 📱 Cross-platform compatibility
+
+[🌐 View on Portfolio](https://kartavyasharma.netlify.app/) | [📁 Repository](https://github.com/codebuster009)
+
+---
+
+### 🤖 Freighkit AI
+> AI-powered freight management platform with intelligent chatbot integration
+
+**Tech Stack:** ReactJS, TypeScript, Tailwind CSS, shadcn/ui, AI Integration
+
+- 🤖 AI chatbot integration
+- 📊 Advanced analytics dashboard
+- 🚀 Intelligent automation
+
+[🌐 View on Portfolio](https://kartavyasharma.netlify.app/) | [📁 Repository](https://github.com/codebuster009)
+
+---
+
+### 🚗 JAAFAR Car
+> Modern car dealership platform with elegant design and seamless user experience
+
+**Tech Stack:** ReactJS, TypeScript, Tailwind CSS, Framer Motion
+
+- 🎨 Beautiful, modern interface
+- ⚡ Smooth animations
+- 📱 Fully responsive
+
+[🌐 View on Portfolio](https://kartavyasharma.netlify.app/) | [📁 Repository](https://github.com/codebuster009)
+
+---
+
+### 🧠 Custom AI Service
+> Custom AI service platform with advanced integration capabilities
+
+**Tech Stack:** ReactJS, TypeScript, Tailwind CSS, AI/ML
+
+- 🤖 Custom AI integrations
+- 🔧 Flexible API architecture
+- 📈 Scalable solutions
+
+[🌐 View on Portfolio](https://kartavyasharma.netlify.app/) | [📁 Repository](https://github.com/codebuster009)
+
+---
+
+## 💼 Services I Offer
+
+- 🌐 **Custom Website Development** - Modern, responsive websites built with latest technologies
+- 🎨 **UI/UX Design** - Beautiful, user-friendly interfaces that users love
+- ⚡ **Performance Optimization** - Fast, efficient applications
+- 🔧 **Full Stack Solutions** - End-to-end development from frontend to backend
+- 🤖 **AI Integration** - Smart features powered by AI and machine learning
+
+---
+
+## 📈 What I'm Currently Learning
+
+- 🔥 Advanced Next.js 14+ features
+- 🤖 AI/ML integration in web applications
+- ☁️ Cloud architecture and microservices
+- 🎨 Advanced animation techniques with Framer Motion
+- 📱 React Native for mobile development
+
+---
+
+## 🎯 Life Motto
+
+> **"Learn, Build, Share, Repeat."**
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7E74F1?style=for-the-badge&logo=vercel&logoColor=white&link=https://kartavyasharma.netlify.app/)](https://kartavyasharma.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kartavaya-sharma-a17035230/)](https://www.linkedin.com/in/kartavaya-sharma-a17035230/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kartavyasharmajs@gmail.com)](mailto:kartavyasharmajs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/codebuster009)](https://github.com/codebuster009)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+> I'm addicted to making clean UI/UX interfaces that users love! ✨
+
+**Thanks for visiting!** 👋
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=codebuster009.codebuster009)
+
+</div>
