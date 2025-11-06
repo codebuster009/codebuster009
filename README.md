@@ -67,19 +67,6 @@ const kartavaya = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebuster009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E74F1&icon_color=7E74F1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebuster009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E74F1)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=codebuster009&theme=tokyonight&hide_border=true&background=0D1117&ring=7E74F1&fire=7E74F1&currStreakLabel=7E74F1)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
