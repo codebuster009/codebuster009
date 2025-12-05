@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Kartavaya Sharma
+# 👋 Hi there, I'm Kartavaya Sharma.
 
 ### 🚀 Full Stack Developer | UI/UX Enthusiast | Problem Solver
 
